@@ -1,0 +1,25 @@
+{
+  "repository": "module-localization-core-nextjs",
+  "capabilityKey": "liberusoftware/localization-core",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-localization-core-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/boilerplate/nextjs/localization-core.md",
+  "presentationPlan": "projects/boilerplate/nextjs/localization-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
